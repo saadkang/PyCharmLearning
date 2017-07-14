@@ -41,3 +41,53 @@ print(bool_five)
 print('*'*40)
 bool_six = 9 < 10
 print(bool_six)
+print('*'*40)
+
+# Same way with '>' Operator
+bool_seven = 10 > 10
+print(bool_seven)
+print('*'*40)
+bool_eight = 10 > 9
+print(bool_eight)
+print('*'*40)
+
+# Same thing with '<=' Operator
+bool_nine = 10 <= 10
+print(bool_nine)
+print('*'*40)
+bool_ten = 9 <= 10
+print(bool_ten)
+print('*'*40)
+
+# Same thing with '>=' Operator
+bool_eleven = 10 >= 10
+print(bool_eleven)
+print('*'*40)
+bool_twelve = 11 >= 10
+print(bool_twelve)
+print('*'*40)
+
+# I think the instructor will show this in the next tutorial which is 'boolean_operators' but we can include some Mathematical Operations
+# to our boolean for example
+bool_thirteen = 10 >= 11 - 1
+print(bool_thirteen)
+# With above example we should get 'True' because 11 - 1 = 10 and 10 is equal to 10 and the boolean is true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
